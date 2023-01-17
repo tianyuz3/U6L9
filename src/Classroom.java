@@ -20,7 +20,11 @@ public class Classroom {
      */
     public boolean addStudent(Student student)
     {
-        /* implement me! */
+       for(int i = 0 ; i < classRoster.length ; i++){
+           if(classRoster[i] == null){
+
+           }
+       }
     }
 
     /** Returns the class exam average determined by adding
